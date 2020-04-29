@@ -11,7 +11,7 @@ export default function App() {
         onselectstart="return false;"
         unselectable="on"
       >
-        <img src={biubiubiu} alt="biu1122" ondragstart="return false;" />
+        <img src={biubiubiu} alt="biu" ondragstart="return false;" />
       </div>
     </div>
   );
