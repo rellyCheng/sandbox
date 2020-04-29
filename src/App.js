@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <h1>Hello</h1>
       <div onselectstart="return false;" unselectable="on">
-        <img src={biubiubiu} alt="" ondragstart="return false;" />
+        <img src={biubiubiu} alt="111" ondragstart="return false;" />
       </div>
     </div>
   );
